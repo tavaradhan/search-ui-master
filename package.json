@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@elastic/react-search-ui": "^1.8.0",
+    "@elastic/search-ui-app-search-connector": "^1.8.0"
+  }
+}
